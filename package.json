@@ -2,6 +2,15 @@
   "name": "ownemployed-app",
   "version": "0.1.0",
   "private": true,
+  "babelMacros": {
+    "twin": {
+      "config": "tailwind.config.js",
+      "preset": "styled-components",
+      "debugProp": true,
+      "debugPlugins": false,
+      "debug": false
+    }
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +19,12 @@
   "dependencies": {
     "next": "9.5.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "styled-components": "^5.2.0",
+    "twin.macro": "^1.10.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2",
+    "tailwindcss": "^1.8.10"
   }
 }
