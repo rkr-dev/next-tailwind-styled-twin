@@ -26,8 +26,8 @@
     "postcss": "^8.1.1",
     "postcss-cli": "^8.0.0",
     "postcss-easy-import": "^3.0.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "styled-components": "^5.2.0",
     "twin.macro": "^1.10.0",
     "use-in-view": "^1.0.15"
