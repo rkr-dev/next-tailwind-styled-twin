@@ -23,7 +23,7 @@
     "feather-icons": "^4.28.0",
     "framer-motion": "^2.7.7",
     "next": "9.5.3",
-    "postcss": "^8.1.1",
+    "postcss": "^8.2.10",
     "postcss-cli": "^8.0.0",
     "postcss-easy-import": "^3.0.0",
     "react": "16.13.1",
